@@ -28,7 +28,13 @@
 //Considerations: USDA loans cater to borrowers in eligible rural areas and are typically reserved for low-to-average income households, according to DSLD Mortgage.
 //5. Refinance loans
 //DTI requirements for refinance loans generally follow the guidelines of the specific loan type (conventional, FHA, VA, etc.) that the borrower is seeking to refinance into.
+
 //Conforming loan refinance: Requires a DTI of up to 50%, according to Better Mortgage.
 //Jumbo loan refinance: Typically requires a lower DTI of 43%, according to Better Mortgage.
 //Cash-out refinance: Maximum DTI is typically no greater than 43%, according to The Mortgage Reports. However, some government-backed programs may allow higher ratios.
 //Important Note: DTI ratios can vary based on individual circumstances, credit score, and lender policies. It's always best to consult with a qualified mortgage lender to get personalized advice and determine the specific DTI requirements for your loan application. # wageCalculator
+
+
+math for this 
+
+(monthly income * qualifying ratio (product)) 
